@@ -1,0 +1,32 @@
+                           ...NOTES...
+AUTHENTICATION
+Verifies who you are.
+Ex: You want to access an app,
+you need to provide email,username
+and password.
+This is verifing who you are..
+
+
+How?
+Method:
+-login form
+-http authentication
+-custom auth. method
+
+
+***********
+
+AUTHORIZATION
+Decides if you have permission to access a resource.
+Everybody has access to the app, but they dont have the same access to the resource.
+ex:manager,user,admin..
+
+How?
+Method:
+Access control URLs
+Access control List(ACLs)
+
+*******************
+Ex:
+Can you enter the buildind? -> Authentication
+Can you access specific room ? -> Authorization
